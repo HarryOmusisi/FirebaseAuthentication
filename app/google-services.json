@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528273118029",
+    "project_id": "omusisijr",
+    "storage_bucket": "omusisijr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528273118029:android:b4f4b378aefb56a0c09d04",
+        "android_client_info": {
+          "package_name": "com.example.harryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528273118029-lvgf7cf7ov1lv9kmsr5tubse8ju3qsis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harryapp",
+            "certificate_hash": "975333d28284ce2fcbf8ff12b3775e99ba6674ff"
+          }
+        },
+        {
+          "client_id": "528273118029-4epugf2ul60d6n3jdvq13gd4oo0jim0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVMibcfOQzB99Oid8r8_qizS63sxsess"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528273118029-4epugf2ul60d6n3jdvq13gd4oo0jim0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
